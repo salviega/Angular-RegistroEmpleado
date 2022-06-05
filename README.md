@@ -1,4 +1,8 @@
-# Empleado
+# Angular Registro Empleado
+Píldoras informaticas: Apuntes vídeo I - Directivas IV. Vídeo 17
+
+Empleado
+===
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
